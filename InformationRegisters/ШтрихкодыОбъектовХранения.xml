@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
+	<InformationRegister uuid="71785d5e-aba6-4ac4-9750-3c9aad256129">
+		<InternalInfo>
+			<xr:GeneratedType name="InformationRegisterRecord.ШтрихкодыОбъектовХранения" category="Record">
+				<xr:TypeId>751dd29a-babf-403e-8ddb-b7caf52c68e1</xr:TypeId>
+				<xr:ValueId>994f3b36-8fa8-4916-9807-1cc7388776cb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterManager.ШтрихкодыОбъектовХранения" category="Manager">
+				<xr:TypeId>138fc625-1b31-485b-814e-27ab25d628b1</xr:TypeId>
+				<xr:ValueId>f77f031f-bea4-4270-8ace-af7c0149137b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterSelection.ШтрихкодыОбъектовХранения" category="Selection">
+				<xr:TypeId>90c05cd2-6a71-49ed-b63e-864cb46db394</xr:TypeId>
+				<xr:ValueId>1b228441-2b3d-4f7c-b26e-7d529e4a4a63</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterList.ШтрихкодыОбъектовХранения" category="List">
+				<xr:TypeId>3b7a6922-5b1e-4892-9801-1ebf8b5e81d1</xr:TypeId>
+				<xr:ValueId>a1ab3413-2c9a-431c-ad11-61ec832c81b6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordSet.ШтрихкодыОбъектовХранения" category="RecordSet">
+				<xr:TypeId>e6a228dd-279c-4581-93a8-3b6b1d339a71</xr:TypeId>
+				<xr:ValueId>16a12d58-1bcb-4355-aefa-a00a64fc3d42</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordKey.ШтрихкодыОбъектовХранения" category="RecordKey">
+				<xr:TypeId>070e61e6-744a-4261-ae0f-fb171cc99917</xr:TypeId>
+				<xr:ValueId>a441893b-aff3-4b94-a845-27e4e4f4925f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordManager.ШтрихкодыОбъектовХранения" category="RecordManager">
+				<xr:TypeId>00deff01-89b1-4647-bcf9-2860b34da9b0</xr:TypeId>
+				<xr:ValueId>44ccb4af-41b0-4338-a713-3f5b6dab7465</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ШтрихкодыОбъектовХранения</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>c4f46cbc-4209-4eab-a5f3-cdb328b851cd</ExtendedConfigurationObject>
+			<InformationRegisterPeriodicity>Nonperiodical</InformationRegisterPeriodicity>
+			<WriteMode>Independent</WriteMode>
+		</Properties>
+		<ChildObjects/>
+	</InformationRegister>
+</MetaDataObject>

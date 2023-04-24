@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
+	<ConfigVersions>
+		<Metadata name="Catalog.isc_Настройки" id="fc3cc712-7d5d-4268-b326-89da666f3e5e" configVersion="993030cb3bfde2fee70afa1e4e1e51140d5fdd72">
+			<Metadata name="Catalog.isc_Настройки.TabularSection.СоответствиеУпаковок" id="12b701b1-e0d4-41bb-8c45-cd783583a739"/>
+			<Metadata name="Catalog.isc_Настройки.TabularSection.МетодыХранения.Attribute.МетодХраненияВГХ" id="74613334-86bf-4947-a063-78b662fe4930"/>
+			<Metadata name="Catalog.isc_Настройки.TabularSection.МетодыХранения.Attribute.Примечание" id="79624237-515d-4571-b672-6ad28e09b533"/>
+			<Metadata name="Catalog.isc_Настройки.Attribute.АдресУстройства" id="7dac1a2f-0aec-43e5-910c-e864a287397a"/>
+			<Metadata name="Catalog.isc_Настройки.Attribute.Порт" id="85e293bf-fcaa-4f30-a9de-d65a0a2006c2"/>
+			<Metadata name="Catalog.isc_Настройки.TabularSection.МетодыХранения.Attribute.ЕдИзм" id="8fac6383-1937-4abc-936d-526a24720b25"/>
+			<Metadata name="Catalog.isc_Настройки.TabularSection.МетодыХранения.Attribute.Свойство_ИмяРеквизита" id="9aa71a30-482f-418c-9be4-076202254f92"/>
+			<Metadata name="Catalog.isc_Настройки.TabularSection.СоответствиеУпаковок.Attribute.ИдУпаковки" id="ac70993b-ec50-4f75-a0f6-953642acaafd"/>
+			<Metadata name="Catalog.isc_Настройки.Attribute.Логирование" id="b5a3f5f1-d432-4b3a-8a43-1c8f9df785ff"/>
+			<Metadata name="Catalog.isc_Настройки.TabularSection.МетодыХранения.Attribute.ИмяСвойства" id="d2ef4f2d-2f70-47a7-8ee3-5d37e097c5f7"/>
+			<Metadata name="Catalog.isc_Настройки.Attribute.Логин" id="e02a9775-58a9-4c94-8623-64f1bd80d5de"/>
+			<Metadata name="Catalog.isc_Настройки.TabularSection.СоответствиеУпаковок.Attribute.ЕдиницаИзмерения" id="ea083f50-02f7-4d67-be8a-ba5a6909b8f6"/>
+			<Metadata name="Catalog.isc_Настройки.Attribute.Пароль" id="ef4d8527-5e73-4369-8e7a-94be60cae6bf"/>
+			<Metadata name="Catalog.isc_Настройки.TabularSection.МетодыХранения" id="f242cfea-361a-429a-b6a2-3d569d4c55bd"/>
+		</Metadata>
+		<Metadata name="Catalog.isc_Настройки.ManagerModule" id="fc3cc712-7d5d-4268-b326-89da666f3e5e.3" configVersion="b77b881704d31381d08c060e64b9bd77a04bd1cb"/>
+		<Metadata name="Catalog.ЕдиницыИзмерения" id="6e99f65b-39ea-4355-adff-aaaeb191f63c" configVersion="781dad1cd269c9cbf8a83f742d28e30c02e69e30"/>
+		<Metadata name="Catalog.Номенклатура" id="4d154145-fb05-4d90-9bc6-73cf04ff2cf1" configVersion="62ef6b7b3c2b87b1041bf8ef89b71bed39dd4b9f"/>
+		<Metadata name="Catalog.ОбъектыХранения" id="1378570b-dabf-4ba7-b64e-fde468791129" configVersion="e6f0dceb4e66e2fb67c479a3c1f4e806559998b3"/>
+		<Metadata name="Catalog.Упаковки" id="4822dd52-58f2-403b-9087-3455d31f459b" configVersion="f75b2b4a1b1a1a2f32fc8b607617e9d77e49380b"/>
+		<Metadata name="Configuration.Infoscan" id="14cda2de-b971-4dca-bfe6-48c59a580768" configVersion="1892e9ee1ae48c67ed2690a208f78abba9b6d867"/>
+		<Metadata name="DataProcessor.isc_РаботаСУстройством" id="8b1daac2-c37a-4220-bb8b-c955322f1b19" configVersion="95ed6940ecbcaa3b4bf9a63771b01de70aa1f72c">
+			<Metadata name="DataProcessor.isc_РаботаСУстройством.TabularSection.HistoriOfScaning.Attribute.Номенклатура" id="151c1dc7-4bd0-497f-9f8e-2a56c946c2d3"/>
+			<Metadata name="DataProcessor.isc_РаботаСУстройством.TabularSection.HistoriOfScaning.Attribute.Barcode" id="1b03c03e-27e0-4cdb-9296-f29253ca7799"/>
+			<Metadata name="DataProcessor.isc_РаботаСУстройством.TabularSection.HistoriOfScaning.Attribute.Weight" id="1b8790d3-59cd-43d4-b328-60a5629c7a46"/>
+			<Metadata name="DataProcessor.isc_РаботаСУстройством.TabularSection.HistoriOfScaning" id="1c4996e3-5fe4-4201-9843-edbc1459f8da"/>
+			<Metadata name="DataProcessor.isc_РаботаСУстройством.TabularSection.HistoriOfScaning.Attribute.Width" id="3b9be10f-385e-4adc-8102-14762bb97bce"/>
+			<Metadata name="DataProcessor.isc_РаботаСУстройством.TabularSection.HistoriOfScaning.Attribute.Характеристика" id="4dcdb628-509f-48c3-a057-91e07769d5bd"/>
+			<Metadata name="DataProcessor.isc_РаботаСУстройством.TabularSection.HistoriOfScaning.Attribute.Status" id="4f27d46a-95e8-4b3f-b6e6-86060492b97b"/>
+			<Metadata name="DataProcessor.isc_РаботаСУстройством.TabularSection.HistoriOfScaning.Attribute.Length" id="5209dfea-ab21-42f4-9702-82fd5896544f"/>
+			<Metadata name="DataProcessor.isc_РаботаСУстройством.Command.ОписаниеРаботыSOAP" id="58ceaf5d-f645-427f-864f-68807d8f1759"/>
+			<Metadata name="DataProcessor.isc_РаботаСУстройством.TabularSection.HistoriOfScaning.Attribute.Ratio" id="8a4c2cf6-8bd8-4661-8872-1e63542a4428"/>
+			<Metadata name="DataProcessor.isc_РаботаСУстройством.TabularSection.HistoriOfScaning.Attribute.ОбъектХранения" id="96f41686-3309-4572-af28-7cebcfd69153"/>
+			<Metadata name="DataProcessor.isc_РаботаСУстройством.TabularSection.HistoriOfScaning.Attribute.Height" id="a1c272e4-c7de-4917-b549-1a88207eaea6"/>
+			<Metadata name="DataProcessor.isc_РаботаСУстройством.Command.ОпросУстройства" id="b3a2fa6c-d007-4e9d-9222-358efc2a4dc4"/>
+			<Metadata name="DataProcessor.isc_РаботаСУстройством.TabularSection.HistoriOfScaning.Attribute.Упаковка" id="c65344a0-de7d-462d-a0e4-0d4d03136393"/>
+			<Metadata name="DataProcessor.isc_РаботаСУстройством.Command.Настройки" id="f1497a8b-5ee0-45bc-b1c3-5813881e4da9"/>
+		</Metadata>
+		<Metadata name="DataProcessor.isc_РаботаСУстройством.Command.Настройки.CommandModule" id="f1497a8b-5ee0-45bc-b1c3-5813881e4da9.2" configVersion="0a67ee56150ec967ffabd6d14a7ecae549184479"/>
+		<Metadata name="DataProcessor.isc_РаботаСУстройством.Command.ОписаниеРаботыSOAP.CommandModule" id="58ceaf5d-f645-427f-864f-68807d8f1759.2" configVersion="dd2d99f95cf4a2e0c748a0a8c6bcd55774a9c0d9"/>
+		<Metadata name="DataProcessor.isc_РаботаСУстройством.Command.ОпросУстройства.CommandModule" id="b3a2fa6c-d007-4e9d-9222-358efc2a4dc4.2" configVersion="d1f06642fdf7c8e565169c536a53428df039ce16"/>
+		<Metadata name="DataProcessor.isc_РаботаСУстройством.Form.ФормаНастройки" id="fcc50f2a-64ab-41a2-985b-e7e0ef7fed24" configVersion="02d1532ad3fc5a9da2f714912a656884de282235"/>
+		<Metadata name="DataProcessor.isc_РаботаСУстройством.Form.ФормаНастройки.Form" id="fcc50f2a-64ab-41a2-985b-e7e0ef7fed24.0" configVersion="629c9e03c4e42e713de7b401165b2622808487b4"/>
+		<Metadata name="DataProcessor.isc_РаботаСУстройством.Form.ФормаОписаниеРаботыSOAP" id="7117b136-22c0-4ec9-b900-a68bf9c37bfa" configVersion="cc35374b47e54d042677775d390c28d7c81b04bd"/>
+		<Metadata name="DataProcessor.isc_РаботаСУстройством.Form.ФормаОписаниеРаботыSOAP.Form" id="7117b136-22c0-4ec9-b900-a68bf9c37bfa.0" configVersion="3f41ac64e040f8d11511064d57bbcc9ea3541ff1"/>
+		<Metadata name="DataProcessor.isc_РаботаСУстройством.Form.ФормаОпросаУстройства" id="16c5b52b-ead3-4c54-9693-4a17734c4432" configVersion="24cf467e596978f07a7fa80f9cbdce84fa6f0119"/>
+		<Metadata name="DataProcessor.isc_РаботаСУстройством.Form.ФормаОпросаУстройства.Form" id="16c5b52b-ead3-4c54-9693-4a17734c4432.0" configVersion="c5e6ca1b67d585fc011f3169f2c47a9b3175aa2b"/>
+		<Metadata name="DataProcessor.isc_РаботаСУстройством.ObjectModule" id="8b1daac2-c37a-4220-bb8b-c955322f1b19.0" configVersion="bb239fbc2e508f96b49c87c9f4ca7f8f4120e2d1"/>
+		<Metadata name="Enum.isc_МетодХраненияВГХ" id="72b12439-f059-4a20-ac2a-5a676a496a72" configVersion="065c2341bd3f2c1b725fd10faf62fdc0696ae5e5">
+			<Metadata name="Enum.isc_МетодХраненияВГХ.EnumValue.ДопСведенияХарактеристики" id="23ce0007-5000-42c4-a96b-fef7a2fd75a9"/>
+			<Metadata name="Enum.isc_МетодХраненияВГХ.EnumValue.РеквизитыУпаковки" id="3075f768-a941-4e20-a170-17a01efb77ca"/>
+			<Metadata name="Enum.isc_МетодХраненияВГХ.EnumValue.ДопСведенияНоменклатуры" id="84a1b3f6-77a0-4123-bd65-8d2d6084ddce"/>
+			<Metadata name="Enum.isc_МетодХраненияВГХ.EnumValue.РеквизитыОбъектаХранения" id="9508611f-b48b-414e-ae2d-bf847e321524"/>
+			<Metadata name="Enum.isc_МетодХраненияВГХ.EnumValue.ДопРеквизитыНоменклатуры" id="a255784c-efcd-4a55-9f60-47bc96350b09"/>
+			<Metadata name="Enum.isc_МетодХраненияВГХ.EnumValue.ДопРеквизитыХарактеристики" id="ea142329-370d-4181-b003-3f84e4cdef04"/>
+			<Metadata name="Enum.isc_МетодХраненияВГХ.EnumValue.РеквизитыНоменклатуры" id="f08f2696-6e5c-4f67-a18d-2d2a8b8bb60b"/>
+		</Metadata>
+		<Metadata name="InformationRegister.isc_ЛогСобытий" id="9e076e14-3192-4545-b128-66d971beadc3" configVersion="c050e6c30d4e0d1ffab41050ce01d2139940341e">
+			<Metadata name="InformationRegister.isc_ЛогСобытий.Dimension.Событие" id="1151dfed-055a-4ecb-b496-e25e434c99ab"/>
+			<Metadata name="InformationRegister.isc_ЛогСобытий.Resource.Длина" id="1f233948-0d60-4017-a1aa-fe068b2fef57"/>
+			<Metadata name="InformationRegister.isc_ЛогСобытий.Dimension.Штрихкод" id="2a163b31-2e48-4a17-b5ea-78c9a46da546"/>
+			<Metadata name="InformationRegister.isc_ЛогСобытий.Resource.Высота" id="2ab7556a-049d-4736-a96a-58240f27e061"/>
+			<Metadata name="InformationRegister.isc_ЛогСобытий.Resource.Масса" id="5ef6c308-0b54-4a10-95de-0ba0a10aa225"/>
+			<Metadata name="InformationRegister.isc_ЛогСобытий.Resource.Ширина" id="8bbb9d85-a0cd-4b31-abf0-7028f47f96f1"/>
+			<Metadata name="InformationRegister.isc_ЛогСобытий.Dimension.Дата" id="a73880dc-c818-4b0f-baa0-e3d9878de101"/>
+			<Metadata name="InformationRegister.isc_ЛогСобытий.Attribute.Комментарий" id="f53b923e-5a69-4650-8fc4-7b06fd393154"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ДополнительныеСведения" id="5dda28e6-fcac-418e-b7f8-2afb6d8ea229" configVersion="2ad7021e288cf6596a9e0b6e5ffd93aa6b1708c6"/>
+		<Metadata name="InformationRegister.ШтрихкодыОбъектовХранения" id="71785d5e-aba6-4ac4-9750-3c9aad256129" configVersion="08adb3e093991bfefe20265ac1c3b05c97cef3a9"/>
+		<Metadata name="Language.Русский" id="a9584394-068a-4297-bf7a-3d65ebd02667" configVersion="e23bea0da2c1f13253a99dee765ca9264c7c5985"/>
+		<Metadata name="Subsystem.isc_Инфоскан" id="31a32ac4-0dab-4691-90cd-f255516b4074" configVersion="96702ff3c6fdfb91f0a050e9468c2cbe3bdb286b"/>
+		<Metadata name="Subsystem.isc_Инфоскан.CommandInterface" id="31a32ac4-0dab-4691-90cd-f255516b4074.1" configVersion="8ec21987cf1e9f4360dffa0becd71853d26c9dc6"/>
+		<Metadata name="WebService.WSInfoscan" id="c631037f-57d4-4413-b759-3c0b2c2db3c7" configVersion="e8e0808c657bc38425a569cbce80c2cbd76db4b7">
+			<Metadata name="WebService.WSInfoscan.Operation.SaveParametrs.Parameter.Comment" id="0c5138ea-d424-4b4e-b710-7299b197ae77"/>
+			<Metadata name="WebService.WSInfoscan.Operation.CheckBarcode.Parameter.Status" id="229ab144-e642-4b62-a849-508ad0e37e16"/>
+			<Metadata name="WebService.WSInfoscan.Operation.CheckBarcode" id="2cceefe7-5ae1-4ed0-ad43-3c1422a6dcab"/>
+			<Metadata name="WebService.WSInfoscan.Operation.SaveParametrs.Parameter.Height" id="49f5101b-1f4a-4130-b217-de47d85ec201"/>
+			<Metadata name="WebService.WSInfoscan.Operation.SaveParametrs.Parameter.Status" id="523821c9-fc69-4a8c-a699-d8a2771288f7"/>
+			<Metadata name="WebService.WSInfoscan.Operation.SaveParametrs.Parameter.ItemType" id="6470c8a3-ca3b-444e-b4d4-ff1df9ee10ee"/>
+			<Metadata name="WebService.WSInfoscan.Operation.SaveParametrs.Parameter.Length" id="6689dac0-c0f8-40b7-8949-eb80a93da57a"/>
+			<Metadata name="WebService.WSInfoscan.Operation.SaveParametrs.Parameter.Weight" id="9f793c58-3ce1-468c-8ea2-390478953063"/>
+			<Metadata name="WebService.WSInfoscan.Operation.SaveParametrs.Parameter.Barcode" id="c0d5aaab-cbd9-4dec-ad19-871d9cdfdf84"/>
+			<Metadata name="WebService.WSInfoscan.Operation.CheckBarcode.Parameter.Barcode" id="c4cc49f6-e299-4756-a494-e21a27300c89"/>
+			<Metadata name="WebService.WSInfoscan.Operation.CheckBarcode.Parameter.Comment" id="f3e7b31a-557e-44a5-8da4-b091a228591f"/>
+			<Metadata name="WebService.WSInfoscan.Operation.SaveParametrs.Parameter.Width" id="f463c798-94ec-400f-94cf-86869deda73c"/>
+			<Metadata name="WebService.WSInfoscan.Operation.SaveParametrs" id="fa05b4bc-49f6-4f29-aaee-36a9e8226b33"/>
+		</Metadata>
+		<Metadata name="WebService.WSInfoscan.Module" id="c631037f-57d4-4413-b759-3c0b2c2db3c7.0" configVersion="409a194acab1f454807858ac49b3e222b316c1d1"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
