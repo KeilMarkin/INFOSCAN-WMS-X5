@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
 	<ConfigVersions>
-		<Metadata name="Catalog.isc_Настройки" id="fc3cc712-7d5d-4268-b326-89da666f3e5e" configVersion="993030cb3bfde2fee70afa1e4e1e51140d5fdd72">
+		<Metadata name="Catalog.isc_Настройки" id="fc3cc712-7d5d-4268-b326-89da666f3e5e" configVersion="1578a610fc02f28df3b5ffc695a853259fbb8634">
 			<Metadata name="Catalog.isc_Настройки.TabularSection.СоответствиеУпаковок" id="12b701b1-e0d4-41bb-8c45-cd783583a739"/>
+			<Metadata name="Catalog.isc_Настройки.Attribute.ИспользоватьSSL" id="2ca397d2-fd1c-4d23-ace0-ad5524b413c4"/>
 			<Metadata name="Catalog.isc_Настройки.TabularSection.МетодыХранения.Attribute.МетодХраненияВГХ" id="74613334-86bf-4947-a063-78b662fe4930"/>
 			<Metadata name="Catalog.isc_Настройки.TabularSection.МетодыХранения.Attribute.Примечание" id="79624237-515d-4571-b672-6ad28e09b533"/>
 			<Metadata name="Catalog.isc_Настройки.Attribute.АдресУстройства" id="7dac1a2f-0aec-43e5-910c-e864a287397a"/>
@@ -17,7 +18,7 @@
 			<Metadata name="Catalog.isc_Настройки.Attribute.Пароль" id="ef4d8527-5e73-4369-8e7a-94be60cae6bf"/>
 			<Metadata name="Catalog.isc_Настройки.TabularSection.МетодыХранения" id="f242cfea-361a-429a-b6a2-3d569d4c55bd"/>
 		</Metadata>
-		<Metadata name="Catalog.isc_Настройки.ManagerModule" id="fc3cc712-7d5d-4268-b326-89da666f3e5e.3" configVersion="b77b881704d31381d08c060e64b9bd77a04bd1cb"/>
+		<Metadata name="Catalog.isc_Настройки.ManagerModule" id="fc3cc712-7d5d-4268-b326-89da666f3e5e.3" configVersion="b6b94f7ffeea2808e775483dabfb9570004cc3c5"/>
 		<Metadata name="Catalog.ЕдиницыИзмерения" id="6e99f65b-39ea-4355-adff-aaaeb191f63c" configVersion="781dad1cd269c9cbf8a83f742d28e30c02e69e30"/>
 		<Metadata name="Catalog.Номенклатура" id="4d154145-fb05-4d90-9bc6-73cf04ff2cf1" configVersion="62ef6b7b3c2b87b1041bf8ef89b71bed39dd4b9f"/>
 		<Metadata name="Catalog.ОбъектыХранения" id="1378570b-dabf-4ba7-b64e-fde468791129" configVersion="e6f0dceb4e66e2fb67c479a3c1f4e806559998b3"/>
@@ -44,11 +45,11 @@
 		<Metadata name="DataProcessor.isc_РаботаСУстройством.Command.ОписаниеРаботыSOAP.CommandModule" id="58ceaf5d-f645-427f-864f-68807d8f1759.2" configVersion="dd2d99f95cf4a2e0c748a0a8c6bcd55774a9c0d9"/>
 		<Metadata name="DataProcessor.isc_РаботаСУстройством.Command.ОпросУстройства.CommandModule" id="b3a2fa6c-d007-4e9d-9222-358efc2a4dc4.2" configVersion="d1f06642fdf7c8e565169c536a53428df039ce16"/>
 		<Metadata name="DataProcessor.isc_РаботаСУстройством.Form.ФормаНастройки" id="fcc50f2a-64ab-41a2-985b-e7e0ef7fed24" configVersion="02d1532ad3fc5a9da2f714912a656884de282235"/>
-		<Metadata name="DataProcessor.isc_РаботаСУстройством.Form.ФормаНастройки.Form" id="fcc50f2a-64ab-41a2-985b-e7e0ef7fed24.0" configVersion="629c9e03c4e42e713de7b401165b2622808487b4"/>
+		<Metadata name="DataProcessor.isc_РаботаСУстройством.Form.ФормаНастройки.Form" id="fcc50f2a-64ab-41a2-985b-e7e0ef7fed24.0" configVersion="5479dd9abc341994e2a5d3b455de09acecca0e54"/>
 		<Metadata name="DataProcessor.isc_РаботаСУстройством.Form.ФормаОписаниеРаботыSOAP" id="7117b136-22c0-4ec9-b900-a68bf9c37bfa" configVersion="cc35374b47e54d042677775d390c28d7c81b04bd"/>
 		<Metadata name="DataProcessor.isc_РаботаСУстройством.Form.ФормаОписаниеРаботыSOAP.Form" id="7117b136-22c0-4ec9-b900-a68bf9c37bfa.0" configVersion="3f41ac64e040f8d11511064d57bbcc9ea3541ff1"/>
 		<Metadata name="DataProcessor.isc_РаботаСУстройством.Form.ФормаОпросаУстройства" id="16c5b52b-ead3-4c54-9693-4a17734c4432" configVersion="24cf467e596978f07a7fa80f9cbdce84fa6f0119"/>
-		<Metadata name="DataProcessor.isc_РаботаСУстройством.Form.ФормаОпросаУстройства.Form" id="16c5b52b-ead3-4c54-9693-4a17734c4432.0" configVersion="c5e6ca1b67d585fc011f3169f2c47a9b3175aa2b"/>
+		<Metadata name="DataProcessor.isc_РаботаСУстройством.Form.ФормаОпросаУстройства.Form" id="16c5b52b-ead3-4c54-9693-4a17734c4432.0" configVersion="9cf89a50926d53ab2328b6a04f59e85baa466e47"/>
 		<Metadata name="DataProcessor.isc_РаботаСУстройством.ObjectModule" id="8b1daac2-c37a-4220-bb8b-c955322f1b19.0" configVersion="bb239fbc2e508f96b49c87c9f4ca7f8f4120e2d1"/>
 		<Metadata name="Enum.isc_МетодХраненияВГХ" id="72b12439-f059-4a20-ac2a-5a676a496a72" configVersion="065c2341bd3f2c1b725fd10faf62fdc0696ae5e5">
 			<Metadata name="Enum.isc_МетодХраненияВГХ.EnumValue.ДопСведенияХарактеристики" id="23ce0007-5000-42c4-a96b-fef7a2fd75a9"/>
@@ -72,7 +73,7 @@
 		<Metadata name="InformationRegister.ДополнительныеСведения" id="5dda28e6-fcac-418e-b7f8-2afb6d8ea229" configVersion="2ad7021e288cf6596a9e0b6e5ffd93aa6b1708c6"/>
 		<Metadata name="InformationRegister.ШтрихкодыОбъектовХранения" id="71785d5e-aba6-4ac4-9750-3c9aad256129" configVersion="08adb3e093991bfefe20265ac1c3b05c97cef3a9"/>
 		<Metadata name="Language.Русский" id="a9584394-068a-4297-bf7a-3d65ebd02667" configVersion="e23bea0da2c1f13253a99dee765ca9264c7c5985"/>
-		<Metadata name="Subsystem.isc_Инфоскан" id="31a32ac4-0dab-4691-90cd-f255516b4074" configVersion="96702ff3c6fdfb91f0a050e9468c2cbe3bdb286b"/>
+		<Metadata name="Subsystem.isc_Инфоскан" id="31a32ac4-0dab-4691-90cd-f255516b4074" configVersion="ec9e6de3db7cc5965bab520689c72a66235f11be"/>
 		<Metadata name="Subsystem.isc_Инфоскан.CommandInterface" id="31a32ac4-0dab-4691-90cd-f255516b4074.1" configVersion="8ec21987cf1e9f4360dffa0becd71853d26c9dc6"/>
 		<Metadata name="WebService.WSInfoscan" id="c631037f-57d4-4413-b759-3c0b2c2db3c7" configVersion="e8e0808c657bc38425a569cbce80c2cbd76db4b7">
 			<Metadata name="WebService.WSInfoscan.Operation.SaveParametrs.Parameter.Comment" id="0c5138ea-d424-4b4e-b710-7299b197ae77"/>
@@ -89,6 +90,6 @@
 			<Metadata name="WebService.WSInfoscan.Operation.SaveParametrs.Parameter.Width" id="f463c798-94ec-400f-94cf-86869deda73c"/>
 			<Metadata name="WebService.WSInfoscan.Operation.SaveParametrs" id="fa05b4bc-49f6-4f29-aaee-36a9e8226b33"/>
 		</Metadata>
-		<Metadata name="WebService.WSInfoscan.Module" id="c631037f-57d4-4413-b759-3c0b2c2db3c7.0" configVersion="409a194acab1f454807858ac49b3e222b316c1d1"/>
+		<Metadata name="WebService.WSInfoscan.Module" id="c631037f-57d4-4413-b759-3c0b2c2db3c7.0" configVersion="5adff3a7846975d7f075d2c04f1017015e0ace8b"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

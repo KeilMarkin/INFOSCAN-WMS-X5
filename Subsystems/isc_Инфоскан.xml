@@ -19,6 +19,9 @@
 			</Picture>
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.isc_РаботаСУстройством</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.isc_ЛогСобытий</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ОбъектыХранения</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ШтрихкодыОбъектовХранения</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
