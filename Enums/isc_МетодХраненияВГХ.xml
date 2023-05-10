@@ -92,6 +92,18 @@
 			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
 		</Properties>
 		<ChildObjects>
+			<EnumValue uuid="9508611f-b48b-414e-ae2d-bf847e321524">
+				<Properties>
+					<Name>РеквизитыОбъектаХранения</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Реквизиты объекта хранения</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
 			<EnumValue uuid="f08f2696-6e5c-4f67-a18d-2d2a8b8bb60b">
 				<Properties>
 					<Name>РеквизитыНоменклатуры</Name>
@@ -164,13 +176,13 @@
 					<Comment/>
 				</Properties>
 			</EnumValue>
-			<EnumValue uuid="9508611f-b48b-414e-ae2d-bf847e321524">
+			<EnumValue uuid="b5fab851-ca40-4574-9c5a-1c23ea5af303">
 				<Properties>
-					<Name>РеквизитыОбъектаХранения</Name>
+					<Name>ДопРеквизитыОбъектаХранения</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Реквизиты объекта хранения</v8:content>
+							<v8:content>Доп реквизиты объекта хранения</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

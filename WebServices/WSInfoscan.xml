@@ -224,6 +224,66 @@
 							<TransferDirection>In</TransferDirection>
 						</Properties>
 					</Parameter>
+					<Parameter uuid="24cac6e0-03f0-447f-b20f-172e7ab562e2">
+						<Properties>
+							<Name>Volume</Name>
+							<Synonym>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Volume</v8:content>
+								</v8:item>
+							</Synonym>
+							<Comment/>
+							<XDTOValueType>xs:double</XDTOValueType>
+							<Nillable>false</Nillable>
+							<TransferDirection>In</TransferDirection>
+						</Properties>
+					</Parameter>
+					<Parameter uuid="7d3664f3-bf9d-4160-b3f5-c89fdf149cc6">
+						<Properties>
+							<Name>VolumeUnit</Name>
+							<Synonym>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Volume unit</v8:content>
+								</v8:item>
+							</Synonym>
+							<Comment/>
+							<XDTOValueType>xs:string</XDTOValueType>
+							<Nillable>false</Nillable>
+							<TransferDirection>In</TransferDirection>
+						</Properties>
+					</Parameter>
+					<Parameter uuid="ba69e1f3-cdfa-4cd6-9f05-191f0cac6007">
+						<Properties>
+							<Name>WeightUnit</Name>
+							<Synonym>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Weight unit</v8:content>
+								</v8:item>
+							</Synonym>
+							<Comment/>
+							<XDTOValueType>xs:string</XDTOValueType>
+							<Nillable>false</Nillable>
+							<TransferDirection>In</TransferDirection>
+						</Properties>
+					</Parameter>
+					<Parameter uuid="58ab8243-e89b-4e89-9ff8-32df6228ea4d">
+						<Properties>
+							<Name>LengthUnit</Name>
+							<Synonym>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Length unit</v8:content>
+								</v8:item>
+							</Synonym>
+							<Comment/>
+							<XDTOValueType>xs:string</XDTOValueType>
+							<Nillable>false</Nillable>
+							<TransferDirection>In</TransferDirection>
+						</Properties>
+					</Parameter>
 				</ChildObjects>
 			</Operation>
 		</ChildObjects>

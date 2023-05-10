@@ -540,27 +540,6 @@
 					<OnMainServerUnavalableBehavior>Auto</OnMainServerUnavalableBehavior>
 				</Properties>
 			</Command>
-			<Command uuid="b3a2fa6c-d007-4e9d-9222-358efc2a4dc4">
-				<Properties>
-					<Name>ОпросУстройства</Name>
-					<Synonym>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Опрос устройства</v8:content>
-						</v8:item>
-					</Synonym>
-					<Comment/>
-					<Group>NavigationPanelImportant</Group>
-					<CommandParameterType/>
-					<ParameterUseMode>Single</ParameterUseMode>
-					<ModifiesData>false</ModifiesData>
-					<Representation>Auto</Representation>
-					<ToolTip/>
-					<Picture/>
-					<Shortcut/>
-					<OnMainServerUnavalableBehavior>Auto</OnMainServerUnavalableBehavior>
-				</Properties>
-			</Command>
 			<Command uuid="58ceaf5d-f645-427f-864f-68807d8f1759">
 				<Properties>
 					<Name>ОписаниеРаботыSOAP</Name>
