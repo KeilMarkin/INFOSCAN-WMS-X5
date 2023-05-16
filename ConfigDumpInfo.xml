@@ -24,7 +24,7 @@
 		<Metadata name="Catalog.ОбъектыХранения" id="1378570b-dabf-4ba7-b64e-fde468791129" configVersion="e6f0dceb4e66e2fb67c479a3c1f4e806559998b3"/>
 		<Metadata name="Catalog.Упаковки" id="4822dd52-58f2-403b-9087-3455d31f459b" configVersion="f75b2b4a1b1a1a2f32fc8b607617e9d77e49380b"/>
 		<Metadata name="Configuration.Infoscan" id="14cda2de-b971-4dca-bfe6-48c59a580768" configVersion="1892e9ee1ae48c67ed2690a208f78abba9b6d867"/>
-		<Metadata name="DataProcessor.isc_РаботаСУстройством" id="8b1daac2-c37a-4220-bb8b-c955322f1b19" configVersion="163191c68b679ddb724f22fc9c429d24ef995008">
+		<Metadata name="DataProcessor.isc_РаботаСУстройством" id="8b1daac2-c37a-4220-bb8b-c955322f1b19" configVersion="b0d881de2304a767aa59447106aad767deff62b6">
 			<Metadata name="DataProcessor.isc_РаботаСУстройством.TabularSection.HistoriOfScaning.Attribute.Номенклатура" id="151c1dc7-4bd0-497f-9f8e-2a56c946c2d3"/>
 			<Metadata name="DataProcessor.isc_РаботаСУстройством.TabularSection.HistoriOfScaning.Attribute.Barcode" id="1b03c03e-27e0-4cdb-9296-f29253ca7799"/>
 			<Metadata name="DataProcessor.isc_РаботаСУстройством.TabularSection.HistoriOfScaning.Attribute.Weight" id="1b8790d3-59cd-43d4-b328-60a5629c7a46"/>
@@ -59,7 +59,7 @@
 			<Metadata name="Enum.isc_МетодХраненияВГХ.EnumValue.ДопРеквизитыХарактеристики" id="ea142329-370d-4181-b003-3f84e4cdef04"/>
 			<Metadata name="Enum.isc_МетодХраненияВГХ.EnumValue.РеквизитыНоменклатуры" id="f08f2696-6e5c-4f67-a18d-2d2a8b8bb60b"/>
 		</Metadata>
-		<Metadata name="InformationRegister.isc_ЛогСобытий" id="9e076e14-3192-4545-b128-66d971beadc3" configVersion="9e2c1b116ba5ddeb29622ce8e7dcc1ac09134d5a">
+		<Metadata name="InformationRegister.isc_ЛогСобытий" id="9e076e14-3192-4545-b128-66d971beadc3" configVersion="936a3902d2e4019f28312724a248c834d1eea38a">
 			<Metadata name="InformationRegister.isc_ЛогСобытий.Dimension.Событие" id="1151dfed-055a-4ecb-b496-e25e434c99ab"/>
 			<Metadata name="InformationRegister.isc_ЛогСобытий.Resource.Длина" id="1f233948-0d60-4017-a1aa-fe068b2fef57"/>
 			<Metadata name="InformationRegister.isc_ЛогСобытий.Resource.ЕдИзмДлин" id="1f59cfab-0ed8-4777-b8e0-e905553138b5"/>
@@ -99,6 +99,6 @@
 			<Metadata name="WebService.WSInfoscan.Operation.SaveParametrs.Parameter.Width" id="f463c798-94ec-400f-94cf-86869deda73c"/>
 			<Metadata name="WebService.WSInfoscan.Operation.SaveParametrs" id="fa05b4bc-49f6-4f29-aaee-36a9e8226b33"/>
 		</Metadata>
-		<Metadata name="WebService.WSInfoscan.Module" id="c631037f-57d4-4413-b759-3c0b2c2db3c7.0" configVersion="099a90624b939c4e045a373d46426c748a4784ba"/>
+		<Metadata name="WebService.WSInfoscan.Module" id="c631037f-57d4-4413-b759-3c0b2c2db3c7.0" configVersion="53acaeafca549a011e16c714c65fe685fe2f8088"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
